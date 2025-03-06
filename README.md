@@ -1,4 +1,5 @@
-# 🚀 Python Full-Stack Developer | Ethical Hacker | Cybersecurity Analyst | Power BI Expert 🔐
+# Mr.Sapthagiri 
+| Python Full-Stack Developer | Ethical Hacker | Cybersecurity Analyst | Power BI Expert 
 
 Innovating at the intersection of Full-Stack Development, Cybersecurity, and Data Analytics!
 
@@ -12,7 +13,7 @@ Additionally, I leverage **Power BI** to transform raw data into insightful visu
 
 ## 🔹 My Core Skills:
 
-✅ **Full-Stack Development** (Python, JavaScript, React, Django, Flask)  
+✅ **Python Full-Stack Development** (Django, Flask, FastAPI, React, JavaScript)  
 ✅ **Web & API Security**, OWASP, Secure Coding Practices  
 ✅ **Penetration Testing**, Ethical Hacking, Vulnerability Assessment  
 ✅ **Cloud Security**, DevSecOps, SIEM, Threat Intelligence  
@@ -68,6 +69,6 @@ With a hacker’s mindset and a developer’s precision, I bridge the gap betwee
 ---
 
 ## 📬 Connect With Me
-💬 *Let's collaborate!* Reach me on [https://www.linkedin.com/in/sapthagirisy/](#) or [servicemail2k24@gmail.com](#).  
+💬 *Let's collaborate!* Reach me on [LinkedIn](#) or [Email](#).  
 
 [![](https://visitcount.itsvg.in/api?id=Sapthagiri&icon=1&color=3)](https://visitcount.itsvg.in)
