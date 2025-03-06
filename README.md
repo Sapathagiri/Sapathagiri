@@ -63,8 +63,8 @@ With a hacker’s mindset and a developer’s precision, I bridge the gap betwee
 ---
 
 ## 📌 Featured Projects
-- [**Project Name**](#) - Brief description of what it does.  
-- [**Another Project**](#) - What makes it unique?  
+- [**Real-Time Mobile Number Tracking System**](#) - This project is about building a real-time mobile number tracking system that helps users track the live location of a mobile number. It uses GPS, telecom APIs, and geolocation services to fetch accurate location data. 
+- [**A Machine Learning Based Cyber Attack Detection Model for Wireless Sensor Networks in Microgrids**](#) - With the rapid evolution of the Internet, cyber-attacks are becoming increasingly sophisticated, posing significant cybersecurity challenges. Machine Learning (ML) and Deep Learning (DL) techniques have emerged as powerful tools for **future** network intrusion detection. 🤖🛡️ This paper provides a brief tutorial on various ML and DL methods used for intrusion detection, summarizing key research papers representing each approach. These papers were analyzed based on their temporal and thermal correlations to evaluate their effectiveness in detecting cyber threats. 🔍💡
 
 ---
 
