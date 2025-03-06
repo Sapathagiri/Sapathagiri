@@ -1,15 +1,73 @@
+# 🚀 Python Full-Stack Developer | Ethical Hacker | Cybersecurity Analyst | Power BI Expert 🔐
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat-square&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=flat-square&logo=framework7&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sapthagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sapthagiri&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapthagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Innovating at the intersection of Full-Stack Development, Cybersecurity, and Data Analytics!
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sapthagiri&limit=5&theme=dark&combine_all_yearly_contributions=true)
+As a passionate **Python Full-Stack Developer**, I specialize in designing and developing dynamic, scalable, and secure applications. From backend logic to frontend interfaces, I ensure seamless user experiences while maintaining performance and efficiency. My expertise includes **Django, Flask, FastAPI, JavaScript, React, and cloud technologies**, enabling me to build end-to-end solutions that drive innovation.
+
+Beyond development, I am a **Certified Ethical Hacker (CEH)** and a dedicated **Cybersecurity Analyst**, ensuring applications and systems are fortified against modern threats. With hands-on experience in **penetration testing, vulnerability assessments, network security, and DevSecOps**, I help businesses identify risks and implement proactive security measures.
+
+Additionally, I leverage **Power BI** to transform raw data into insightful visualizations and reports, enabling data-driven decision-making for businesses.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sapthagiri&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 My Core Skills:
+
+✅ **Full-Stack Development** (Python, JavaScript, React, Django, Flask)  
+✅ **Web & API Security**, OWASP, Secure Coding Practices  
+✅ **Penetration Testing**, Ethical Hacking, Vulnerability Assessment  
+✅ **Cloud Security**, DevSecOps, SIEM, Threat Intelligence  
+✅ **Incident Response**, Risk Management, Compliance  
+✅ **Power BI**, Data Visualization, Business Intelligence, Reporting  
+
+With a hacker’s mindset and a developer’s precision, I bridge the gap between software engineering, cybersecurity, and data analytics, ensuring digital assets remain secure while making data-driven insights accessible.
+
+---
+
+## 💻 Tech Stack:
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
+
+### **Cloud & DevOps**
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)  
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)  
+
+### **Cybersecurity & Ethical Hacking**
+![OWASP](https://img.shields.io/badge/OWASP-%23blue.svg?style=flat-square&logo=owasp&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)  
+![Penetration Testing](https://img.shields.io/badge/PenTesting-%23red.svg?style=flat-square&logo=security)  
+
+### **Data & Analytics**
+![Power BI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=flat-square&logo=powerbi&logoColor=black)  
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sapthagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Sapthagiri&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sapthagiri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sapthagiri&limit=5&theme=dark&combine_all_yearly_contributions=true)  
+
+---
+
+## 📌 Featured Projects
+- [**Project Name**](#) - Brief description of what it does.  
+- [**Another Project**](#) - What makes it unique?  
+
+---
+
+## 📬 Connect With Me
+💬 *Let's collaborate!* Reach me on [https://www.linkedin.com/in/sapthagirisy/](#) or [servicemail2k24@gmail.com](#).  
+
+[![](https://visitcount.itsvg.in/api?id=Sapthagiri&icon=1&color=3)](https://visitcount.itsvg.in)
